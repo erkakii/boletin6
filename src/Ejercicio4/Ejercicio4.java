@@ -2,7 +2,7 @@ package Ejercicio4;
 
 import java.util.*;
 
-public class Ejercicio4B {
+public class Ejercicio4 {
     /*Queremos un programa que calcule la longitud, el área, el volumen o la resta de dos áreas según elija el usuario
      * Entrada: radio
      * Salida: longitud, área, volumen, resta*/
