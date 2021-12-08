@@ -48,6 +48,7 @@ public class Ejercicio2 {
      */
     private static void volumenCircunferencia() {
         volumen = 4 / 3 * Math.PI * Math.pow(radio, 3);
+        System.out.println("El volumen de la esfera es " + volumen);
     }
 
     /**
